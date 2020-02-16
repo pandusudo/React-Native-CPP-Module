@@ -1,0 +1,1 @@
+make: 'D:/CppReactNative/android/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libhelloworld.so' is up to date.
